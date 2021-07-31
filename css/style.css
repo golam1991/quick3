@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    border: 1px solid black;
+}
+.header2{
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+
+}
+.logo{
+    width: 20%;
+    float: left;
+
+}
+nav{
+    width: 50%;
+    float: right;
+    overflow: hidden;
+
+
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+    float: right;
+
+
+}
+nav ul li{
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: black;
+    
+
+}
+.content_section{
+
+width: 70%;
+
+margin-left: 15%;
+}
+.content_section h1{
+
+text-align: center;
+
+font-size: 45px;
+
+margin-left: 15%;
+}
+.content_section h2{
+
+text-align: center;
+
+color: #3A88C7;
+
+font-size: 45px;
+}
+.content_section p{
+
+color: #394265;
+
+text-align: center;
+
+margin-bottom: 15px;
+}
+.img{
+
+text-align: center;
+}
+.img img{
+
+width: 50%;
+}
+.project_content{
+
+overflow: hidden;
+}
+.left_content{
+
+width: 48%;
+
+float: left;
+}
+.left_content h1{
+
+color: tomato;
+
+text-align: right;
+}
+.left_content p{
+
+text-align: right;
+}
+.right_content{
+
+width: 48%;
+
+float: right;
+
+text-align: center;
+}
+.right_content h1{
+
+text-align: left;
+}
+.service{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+margin-bottom: 10px;
+}
+
+.service_one{
+
+width: 30%;
+
+background-color: #F8EBED;
+
+float: left;
+
+text-align: center;
+}
+.service_one img{
+
+width: 39%;
+}
+.service_one h2{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_one p{
+    
+text-align: left;
+    
+padding: 10px;
+}
+
+
+.service_two{
+
+background-color: #EEF8F4;
+
+width: 30%;
+
+float: left;
+
+margin-left: 5%;
+
+text-align: center;
+}
+.service_two img{
+
+width: 50%;
+}
+.service_two h2{
+
+text-align: left;
+
+padding-left: 10px;
+}
+.service_two p{
+    
+text-align: left;
+    
+padding-left: 10px;
+}
+
+.service_three{
+
+width: 30%;
+
+background-color: #FCF7E9;
+
+float: right;
+
+text-align: center;
+}
+.service_three img{
+
+width: 52%;
+}
+.service_three h2{
+
+text-align: left;
+
+padding-left: 10px;
+}
+.service_three p{
+    
+text-align: left;
+    
+padding-left: 10px;
+}
+footer{
+
+background-color: #429CE3;
+
+text-align: center;
+
+padding: 30px 0;
+}
+
+footer p{
+
+color: #dfcfcf;
+}
+footer p span{
+    
+text-transform: capitalize;
+    
+color: white;
+}
+
